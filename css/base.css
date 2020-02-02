@@ -1,0 +1,47 @@
+html, body
+{
+  height: 100%;
+}
+
+strong
+{
+    color: maroon;
+}
+
+.header
+{
+    color: lightgray;
+    background-color: maroon;
+}
+
+.btn
+{
+    background-color: maroon;
+}
+
+.btn-primary
+{
+  background-color: maroon;
+}
+
+.footer
+{
+  background-color: lightgray;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer p
+{
+  margin: 0;
+}
+
+.index-ui
+{
+  font-size: 3vw;
+}
+
+.index-ui i, .index-ui button
+{
+  color: maroon;
+}
